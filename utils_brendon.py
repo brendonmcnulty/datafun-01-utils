@@ -34,7 +34,7 @@ def main():
     logger.info(f"Mean: {mean}, Standard Deviation: {stdev}")
 
     # Example voice output
-    # TODO: Update the spoken message to make it unique to you.
+    
     engine = pyttsx3.init()
     engine.say("Brendon is ready to conquer Data Analytics Fundamentals!")
 
@@ -42,7 +42,7 @@ def main():
 
 
 # Standard Python idiom for making code run only when executed directly.
-# TODO: Make sure you understand why this is important.
+
 if __name__ == "__main__":
     main()
 
