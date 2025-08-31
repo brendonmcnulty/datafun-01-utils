@@ -24,7 +24,7 @@ def main():
 
     # Example statistics
     # TODO: Replace this data with your own set of numbers.
-    data = [2.75, 1.75, 1.25, 0.25, 0.5, 1.25, 3.5]
+    data = [5, 7, 12, 18, 23, 42]
 
     # Calculate mean and stdev
     mean = statistics.mean(data)
