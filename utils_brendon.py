@@ -188,24 +188,7 @@ if __name__ == "__main__":
     main()
 
 
-""" 
-    More about functions:
 
-    - A function is a block of code that performs a task.
-    - We wrote a reusable function that returns our byline.
-    - Functions let us write code once and reuse it.
-    - Defining good functions is a valuable skill.
-    - Know what you want to name it, what information it needs to do its job,
-      and what it should return (if anything).
-    - Our byline function doesn't need any additional information passed in,
-        so there's nothing inside the parentheses.
-    - AI tools can help us write functions, but WE must specify what we want.
-    - Recommended: 
-        - Use `type hints` to indicate what kind of value (if any) the function returns.
-        - Use `type hints` to indicate what type of information each parameter should be.
-        - Use a docstring at the start to describe what the function does.
-    - Everything after the colon must be indented consistently (usually 4 spaces)
-"""
 
 
 
