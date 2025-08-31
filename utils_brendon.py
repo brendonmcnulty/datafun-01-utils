@@ -1,8 +1,8 @@
 """
 utils_brendon.py
 
-TODO: Change the module name in the docstring at the top (done: utils_brendon.py).
-TODO: Add your name as the author.
+Author: Brendon McNulty
+
 
 This file is your personalized utilities module for the Data Analytics Fundamentals class.
 It demonstrates using the statistics standard library, loguru for logging, 
