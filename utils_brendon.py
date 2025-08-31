@@ -115,6 +115,7 @@ Motto:                      {motto}
 Years Active:               {years_active}
 Number of Employees:        {number_of_employees}
 Accepting New Clients?:     {is_accepting_clients}
+Hiring?:                    {is_hiring}
 Remote Workshops?:          {offers_remote_workshops}
 Services:                   {services}
 Office Locations:           {office_locations}
@@ -122,7 +123,7 @@ Client Satisfaction Scores: {satisfaction_scores}
 Minimum Satisfaction Score: {min_score}
 Maximum Satisfaction Score: {max_score}
 Mean Satisfaction Score:    {mean_score:.2f}
-     Standard Deviation:    {stdev_score:.2f}
+Standard Deviation:         {stdev_score:.2f}
 **********************************************************
 """
 
