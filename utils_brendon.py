@@ -23,7 +23,7 @@ def main():
 
 
     # Example statistics
-    # TODO: Replace this data with your own set of numbers.
+   
     data = [5, 7, 12, 18, 23, 42]
 
     # Calculate mean and stdev
