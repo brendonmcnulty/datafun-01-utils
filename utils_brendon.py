@@ -164,7 +164,7 @@ def main() -> None:
     loguru.logger.info("Byline:\n" + get_byline())
 
     try:
-        # TODO: Uncomment next line if you want audio feedback (use CTRL+C to stop)
+        
         # read_byline_aloud()
         pass
     except KeyboardInterrupt:
