@@ -18,8 +18,9 @@ import pyttsx3
 def main():
     """Run a simple example of statistics, logging, and text-to-speech."""
 
-    # TODO: Update the logger message to include your name.
-    logger.info("Starting main function for Brendon")
+    
+    logger.info("Brendon’s main function has started — ready to crunch some numbers!")
+
 
     # Example statistics
     # TODO: Replace this data with your own set of numbers.
