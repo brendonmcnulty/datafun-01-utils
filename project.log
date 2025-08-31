@@ -44,3 +44,49 @@ Mean Satisfaction Score:    4.80
 2025-08-31 11:21:13 | INFO | __main__:177 | This module is organized like all Python modules.
 2025-08-31 11:21:13 | INFO | __main__:178 | We write professional Python from the start.
 2025-08-31 11:21:13 | INFO | __main__:179 | END main()...
+2025-08-31 11:27:44 | INFO | __main__:50 | Logger loaded.
+2025-08-31 11:27:44 | INFO | __main__:163 | STARTING main()..
+2025-08-31 11:27:44 | INFO | __main__:164 | Byline:
+
+**********************************************************
+BAM Analytics — Project Header
+**********************************************************
+Author:                     Brendon McNulty
+Motto:                      Simple. Honest. Data.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-08-31 11:27:44 | INFO | __main__:175 | This module is organized like all Python modules.
+2025-08-31 11:27:44 | INFO | __main__:176 | We write professional Python from the start.
+2025-08-31 11:27:44 | INFO | __main__:177 | END main()...
+2025-08-31 11:29:06 | INFO | __main__:50 | Logger loaded.
+2025-08-31 11:29:06 | INFO | __main__:163 | STARTING main()..
+2025-08-31 11:29:06 | INFO | __main__:164 | Byline:
+
+**********************************************************
+BAM Analytics — Project Header
+**********************************************************
+Author:                     Brendon McNulty
+Motto:                      Simple. Honest. Data.
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-08-31 11:29:06 | INFO | __main__:175 | This module is organized like all Python modules.
+2025-08-31 11:29:06 | INFO | __main__:176 | We write professional Python from the start.
+2025-08-31 11:29:06 | INFO | __main__:177 | END main()...
