@@ -9,7 +9,6 @@ It demonstrates using the statistics standard library, loguru for logging,
 and pyttsx3 for text-to-speech output.
 """
 
-# TODO: Review the imports. Do you understand what each one is used for?
 import statistics
 from loguru import logger
 import pyttsx3
@@ -30,8 +29,9 @@ def main():
     mean = statistics.mean(data)
     stdev = statistics.stdev(data)
 
-    # TODO: Customize this message to make it yours.
-    logger.info(f"Mean: {mean}, Standard Deviation: {stdev}")
+    
+    logger.info(f"Crunching numbers: average = {mean:.2f}, spread = {stdev:.2f} — nice work, Brendon!")
+
 
     # Example voice output
     
