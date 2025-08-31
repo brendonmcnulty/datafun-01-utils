@@ -58,8 +58,7 @@ logger.info("Logger loaded.")
 # ----------------------------------
 is_accepting_clients: bool = True
 offers_remote_workshops: bool = True
-
-# TODO: Declare and initialize a new boolean variable (e.g. `is_hiring` and set it to False)
+is_hiring: bool = False 
 
 # ----------------------------------
 # Define Integer variables
@@ -67,17 +66,14 @@ offers_remote_workshops: bool = True
 current_year: int = 2025
 year_started: int = 2020
 
-# TODO: Declare and initialize a new integer variable (e.g. `number_of_employees` and set it to 25)
-
+number_of_employees: int = 25
 # ----------------------------------
 # Define String variables
 # ----------------------------------
-author: str = "Denise Case"  # TODO: change to your name
-organization: str = "Stellar Analytics"  # TODO: change the org name
-motto: str = "Clear. Useful. On time."  # TODO: change the motto
-
-# TODO: Declare and initialize a new string variable (e.g. `location` and set it to your city and state)
-
+author: str = "Brendon McNulty"  
+organization: str = "BAM Analytics"  
+motto: str = "Simple. Honest. Data."  
+location: str = "Iowa City, IA"
 # ----------------------------------
 # Define List variables
 # ----------------------------------
