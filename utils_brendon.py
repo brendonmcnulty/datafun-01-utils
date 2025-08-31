@@ -36,7 +36,8 @@ def main():
     # Example voice output
     # TODO: Update the spoken message to make it unique to you.
     engine = pyttsx3.init()
-    engine.say("Hello from utils_brendon!")
+    engine.say("Brendon is ready to conquer Data Analytics Fundamentals!")
+
     engine.runAndWait()
 
 
