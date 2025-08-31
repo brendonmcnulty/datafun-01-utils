@@ -94,8 +94,7 @@ min_score: float = min(satisfaction_scores)
 max_score: float = max(satisfaction_scores)
 count_of_services: int = len(services)
 count_of_scores: int = len(satisfaction_scores)
-
-# TODO: Declare and initialize a new calculated variable (e.g. `count_of_locations` that uses the len() function on your list of office locations)
+count_of_locations: int = len(office_locations)
 
 
 # ----------------------------------
@@ -114,9 +113,11 @@ byline: str = f"""
 Author:                     {author}
 Motto:                      {motto}
 Years Active:               {years_active}
+Number of Employees:        {number_of_employees}
 Accepting New Clients?:     {is_accepting_clients}
 Remote Workshops?:          {offers_remote_workshops}
 Services:                   {services}
+Office Locations:           {office_locations}
 Client Satisfaction Scores: {satisfaction_scores}
 Minimum Satisfaction Score: {min_score}
 Maximum Satisfaction Score: {max_score}
